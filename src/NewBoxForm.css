@@ -1,0 +1,28 @@
+.NewBoxForm{
+  display: block;
+  position: relative;
+  left: 30%;
+  top: 20px;
+
+  background-color: #A1B1BB;
+  width:  35%;
+  padding: 20px;
+  border-color: #505C63;
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 10px;
+}
+
+.NewBoxForm button
+{
+  font-size: 1.1em;
+  padding-left: 10px;
+  padding-right: 10px;
+  position: relative;
+  left: 40%;
+  top: 10px;
+}
+
+.NewBoxForm input{
+  margin: 5px;
+}

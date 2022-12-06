@@ -1,0 +1,12 @@
+.Box{
+  display: inline-block;
+  border-radius: 15px;
+margin: 7px;
+margin-top: 10px;
+}
+
+.Box_button{
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
